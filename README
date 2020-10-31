@@ -1,0 +1,5 @@
+We use MELDxMD as a Bayesian inference tool combining Molecular Dynamics
+with ambiguous/noisy information to sample conformations of bound complexes.
+
+The information in this case comes from contacts predicted from server predictions or 
+specific details shared through the Slack Capri-Covid19 channel.
